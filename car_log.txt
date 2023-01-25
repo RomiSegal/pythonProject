@@ -1,0 +1,379 @@
+
+'>' not supported between instances of 'int' and 'str' , 2023-01-22 12:01:59.332334
+'>' not supported between instances of 'int' and 'str' , 2023-01-22 12:22:14.338574
+'>' not supported between instances of 'int' and 'str' , 2023-01-22 12:24:58.972948
+'>' not supported between instances of 'int' and 'str' , 2023-01-22 12:25:30.292103
+'>' not supported between instances of 'int' and 'str' , 2023-01-22 12:27:47.932651
+'<' not supported between instances of 'int' and 'str' , 2023-01-22 12:31:26.111782
+You need to go to a gas station , 2023-01-22 13:05:43.639367
+You need to go to a gas station , 2023-01-22 13:28:15.873388
+You need more money , 2023-01-22 13:29:43.073034
+You need to go to a gas station , 2023-01-22 13:30:04.314520
+You need more money , 2023-01-22 13:37:21.287872
+The test pass , 2023-01-22 14:12:32.357414
+The test pass , 2023-01-22 14:15:57.859211
+You need to go to a gas station , 2023-01-22 16:10:08.126662
+You need to go to a gas station , 2023-01-22 16:13:29.996027
+You need to go to a gas station , 2023-01-22 16:17:13.284705
+Your gas tank is full , 2023-01-22 16:17:13.284705
+You need to go to a gas station , 2023-01-22 16:17:13.285704
+Your gas tank is full , 2023-01-22 16:17:13.285704
+You need more money , 2023-01-22 16:17:13.285704
+You need to go to a gas station , 2023-01-22 16:18:47.016408
+Your gas tank is full , 2023-01-22 16:19:44.486290
+You need to go to a gas station , 2023-01-22 16:20:42.044169
+Your gas tank is full , 2023-01-22 16:20:42.044169
+You need more money , 2023-01-22 16:21:05.007260
+You need to go to a gas station , 2023-01-22 16:22:17.628098
+Your gas tank is full , 2023-01-22 16:22:17.629098
+You need to go to a gas station , 2023-01-22 16:23:01.579383
+Your gas tank is full , 2023-01-22 16:23:01.580361
+You need to go to a gas station , 2023-01-22 16:23:17.318235
+Your gas tank is full , 2023-01-22 16:23:17.318235
+You need to go to a gas station , 2023-01-22 16:23:57.516706
+Your gas tank is full , 2023-01-22 16:24:24.349868
+you can to drive , 2023-01-22 17:30:18.079645
+you can to drive , 2023-01-22 17:50:01.893457
+you can to drive , 2023-01-22 18:34:45.941790
+you can to drive , 2023-01-22 18:41:51.751413
+you can to drive , 2023-01-22 18:45:56.574275
+you can to drive , 2023-01-22 19:24:44.446598
+you can to drive , 2023-01-22 19:26:00.421464
+you can to drive , 2023-01-22 19:26:07.303487
+you can to drive , 2023-01-22 19:26:26.941475
+you can to drive , 2023-01-22 19:27:22.333628
+you can to drive , 2023-01-22 19:28:02.620738
+you can to drive , 2023-01-22 19:29:29.011293
+you can to drive , 2023-01-22 19:29:32.945355
+you can to drive , 2023-01-22 19:30:15.443715
+you can to drive , 2023-01-22 19:35:59.078330
+you can to drive , 2023-01-22 19:37:56.427067
+you can to drive , 2023-01-22 19:39:43.080552
+you can to drive , 2023-01-22 19:40:06.627147
+you can to drive , 2023-01-22 19:46:06.752551
+you can to drive , 2023-01-22 19:46:33.010717
+not enough money you missing '30' shekels , 2023-01-22 20:03:36.368336
+not enough money you missing 30 shekels , 2023-01-22 20:03:56.167138
+The test pass , 2023-01-22 20:33:21.152653
+The test pass , 2023-01-22 20:33:44.762199
+The test passed , 2023-01-22 20:36:25.690881
+The test passed , 2023-01-22 20:44:22.491114
+The test passed , 2023-01-22 21:04:37.746645
+you have enough fuel for your trip , 2023-01-22 21:04:37.750714
+The test passed , 2023-01-22 21:04:37.750714
+The test passed , 2023-01-22 21:04:37.752714
+The test passed , 2023-01-22 21:04:37.823221
+The test passed , 2023-01-22 21:04:37.830222
+The test passed , 2023-01-22 21:04:37.837222
+The test passed , 2023-01-22 21:07:29.637937
+The test passed , 2023-01-22 21:08:23.035146
+you have enough fuel for your trip , 2023-01-22 21:08:23.037151
+The test passed , 2023-01-22 21:08:23.037151
+The test passed , 2023-01-22 21:08:23.039151
+The test passed , 2023-01-22 21:08:23.108025
+The test passed , 2023-01-22 21:08:23.115005
+The test passed , 2023-01-22 21:08:23.123006
+The test passed , 2023-01-22 21:10:22.044157
+you have enough fuel for your trip , 2023-01-22 21:10:22.045159
+The test passed , 2023-01-22 21:10:22.046658
+The test passed , 2023-01-22 21:10:22.047666
+The test passed , 2023-01-22 21:10:22.109032
+The test passed , 2023-01-22 21:10:22.117034
+The test passed , 2023-01-22 21:10:22.119033
+The test passed , 2023-01-22 21:10:22.120028
+The test_start passed , 2023-01-22 21:20:54.859258
+The test_parking1 passed , 2023-01-22 21:20:58.831559
+The <function test_start at 0x00000258947839A0> passed , 2023-01-22 21:24:50.441934
+The test_start passed , 2023-01-22 21:25:25.185393
+The test_set_current_fuel passed , 2023-01-22 21:27:42.353758
+The test_total_speed passed , 2023-01-22 21:27:49.235059
+The test_fill_fuel passed , 2023-01-22 21:27:56.097995
+you have enough fuel for your trip , 2023-01-22 21:28:07.992660
+The test_is_enough_fuel1 passed , 2023-01-22 21:28:07.992660
+you have enough fuel for your trip , 2023-01-22 21:41:01.109160
+The test_start passed , 2023-01-22 21:48:29.423411
+The test_parking1 passed , 2023-01-22 21:48:37.071578
+The test_fill_fuel passed , 2023-01-22 21:51:07.883427
+you have enough fuel for your trip , 2023-01-22 21:51:07.886429
+The test test_is_enough_fuel1 passed , 2023-01-22 21:51:07.886429
+The test_is_enough_fuel2 passed , 2023-01-22 21:51:07.888430
+The test passed , 2023-01-22 21:51:07.947313
+The test_set_current_fuel passed , 2023-01-22 21:51:07.955422
+The test passed , 2023-01-22 21:51:07.957421
+The test_total_speed passed , 2023-01-22 21:51:07.959464
+The test passed , 2023-01-22 21:52:33.824913
+you have enough fuel for your trip , 2023-01-22 21:52:33.827921
+The test passed , 2023-01-22 21:52:33.827921
+The test passed , 2023-01-22 21:52:33.830013
+The test passed , 2023-01-22 21:52:33.895603
+The test passed , 2023-01-22 21:52:33.913608
+The test passed , 2023-01-22 22:11:32.557836
+you have enough fuel for your trip , 2023-01-22 22:11:32.559932
+The test passed , 2023-01-22 22:11:32.559932
+The test passed , 2023-01-22 22:11:32.562933
+The test passed , 2023-01-22 22:12:22.031208
+you have enough fuel for your trip , 2023-01-22 22:12:22.034243
+The test passed , 2023-01-22 22:12:22.035244
+The test passed , 2023-01-22 22:12:22.037242
+The test passed , 2023-01-22 22:12:22.115820
+'int' object is not callable , 2023-01-22 22:13:46.929719
+'int' object is not callable , 2023-01-22 22:13:52.292824
+The test_parking2 passed , 2023-01-22 22:21:02.411297
+The test_parking1 passed , 2023-01-22 22:22:51.665441
+The test_start passed , 2023-01-22 22:24:00.388677
+The test passed , 2023-01-22 22:33:40.117349
+The test passed , 2023-01-22 22:34:35.575574
+The test passed , 2023-01-22 22:34:40.014522
+The test passed , 2023-01-22 22:34:43.170514
+The test passed , 2023-01-22 22:34:47.563953
+you have enough fuel for your trip , 2023-01-22 22:34:47.568949
+The test passed , 2023-01-22 22:34:47.571948
+The test passed , 2023-01-22 22:34:47.588341
+The test passed , 2023-01-22 22:34:47.597546
+The test_fill_fuel passed , 2023-01-22 22:37:15.672649
+you have enough fuel for your trip , 2023-01-22 22:37:15.679730
+The test_is_enough_fuel1 passed , 2023-01-22 22:37:15.679730
+The test_parking2 passed , 2023-01-22 22:37:15.681730
+The test_max_gear passed , 2023-01-22 22:37:15.685899
+The test_parking1 passed , 2023-01-22 22:37:15.687985
+The test_parking2 passed , 2023-01-22 22:37:15.690924
+The test_set_current_fuel passed , 2023-01-22 22:37:15.694389
+The test_start passed , 2023-01-22 22:37:15.697386
+The test_total_speed passed , 2023-01-22 22:37:15.700385
+The test_fill_fuel passed , 2023-01-23 09:17:11.229261
+you have enough fuel for your trip , 2023-01-23 09:17:11.234774
+The test_is_enough_fuel1 passed , 2023-01-23 09:17:11.234774
+{ValueError('The distance is too big for the fuel left')} , 2023-01-23 09:17:11.240199
+The test_max_gear passed , 2023-01-23 09:17:11.336422
+The test_parking1 passed , 2023-01-23 09:17:11.341756
+The test_parking2 passed , 2023-01-23 09:17:11.346859
+The test_set_current_fuel passed , 2023-01-23 09:17:11.350912
+The test_start passed , 2023-01-23 09:17:11.354893
+The test_total_speed passed , 2023-01-23 09:17:11.359055
+{ValueError('The distance is too big for the fuel left')} , 2023-01-23 09:18:07.189757
+The test_is_enough_fuel2 passed , 2023-01-23 09:18:07.189757
+{ValueError('The distance is too big for the fuel left')} , 2023-01-23 09:19:10.483933
+The test_is_enough_fuel2 passed , 2023-01-23 09:19:10.483933
+you have enough fuel for your trip , 2023-01-23 09:19:23.312352
+The test_is_enough_fuel1 passed , 2023-01-23 09:19:23.312352
+{ValueError('The distance is too big for the fuel left')} , 2023-01-23 09:19:30.566660
+The test_is_enough_fuel2 passed , 2023-01-23 09:19:30.566660
+{ValueError('The distance is too big for the fuel left')} , 2023-01-23 09:19:42.357692
+The test_is_enough_fuel2 passed , 2023-01-23 09:19:42.357692
+{ValueError('The distance is too big for the fuel left')} , 2023-01-23 09:20:46.316347
+{ValueError('The distance is too big for the fuel left')} , 2023-01-23 09:21:56.213968
+The test_is_enough_fuel2 passed , 2023-01-23 09:21:56.221018
+The test_parking2 passed , 2023-01-23 09:22:53.253816
+The test_fill_fuel passed , 2023-01-23 09:23:15.260952
+you have enough fuel for your trip , 2023-01-23 09:23:15.264953
+The test_is_enough_fuel1 passed , 2023-01-23 09:23:15.264953
+The test_parking2 passed , 2023-01-23 09:23:15.270246
+The test_max_gear passed , 2023-01-23 09:23:15.275239
+The test_parking1 passed , 2023-01-23 09:23:15.281240
+The test_parking2 passed , 2023-01-23 09:23:15.286374
+The test_set_current_fuel passed , 2023-01-23 09:23:15.290373
+The test_start passed , 2023-01-23 09:23:15.296378
+The test_total_speed passed , 2023-01-23 09:23:15.302509
+The test_total_speed passed , 2023-01-23 09:47:47.339367
+The test_set_current_fuel passed , 2023-01-23 09:48:59.333303
+The test_set_current_fuel passed , 2023-01-23 09:54:22.193340
+The test_fill_fuel2 passed , 2023-01-23 09:57:01.996289
+The test_start passed , 2023-01-23 10:01:41.077166
+The test_parking1 passed , 2023-01-23 10:01:49.241981
+The test_parking2 passed , 2023-01-23 10:01:57.334945
+you have enough fuel for your trip , 2023-01-23 10:02:12.068275
+The test_is_enough_fuel1 passed , 2023-01-23 10:02:12.068275
+The test_fill_fuel1 passed , 2023-01-23 10:02:25.431368
+The test_fill_fuel2 passed , 2023-01-23 10:02:34.041105
+The test_total_speed passed , 2023-01-23 10:02:40.840973
+The test_set_current_fuel1 passed , 2023-01-23 10:03:01.962187
+The test_set_current_fuel2 passed , 2023-01-23 10:03:04.580421
+The test_total_speed passed , 2023-01-23 10:03:58.211782
+The test_total_speed1 passed , 2023-01-23 10:05:11.326018
+The test_total_speed1 passed , 2023-01-23 10:05:21.248638
+you have enough fuel for your trip , 2023-01-23 10:10:25.293789
+The test_is_enough_fuel1 passed , 2023-01-23 10:10:25.294793
+The test_parking2 passed , 2023-01-23 10:10:25.300770
+The test_max_gear passed , 2023-01-23 10:10:25.304852
+The test_fill_fuel passed , 2023-01-23 10:10:25.311011
+The test_parking1 passed , 2023-01-23 10:10:25.317126
+The test_parking2 passed , 2023-01-23 10:10:25.322575
+The test_set_current_fuel passed , 2023-01-23 10:10:25.328584
+The test_start passed , 2023-01-23 10:10:25.335327
+The test_total_speed passed , 2023-01-23 10:10:25.339556
+The test_fill_fuel2 passed , 2023-01-23 10:11:36.540477
+The test_total_speed2 passed , 2023-01-23 10:14:19.304315
+The test_set_current_fuel2 passed , 2023-01-23 10:15:37.143193
+The test_set_current_fuel2 passed , 2023-01-23 10:39:20.256368
+The test_set_current_fuel2 did not pass , 2023-01-23 10:41:11.569375
+The test_total_speed2 passed , 2023-01-23 10:51:20.508065
+The test_total_speed2 did not pass , 2023-01-23 10:51:26.902022
+you have enough fuel for your trip , 2023-01-23 10:52:13.307789
+The test_is_enough_fuel1 passed , 2023-01-23 10:52:13.308789
+The test_parking2 passed , 2023-01-23 10:52:13.314973
+The test_max_gear passed , 2023-01-23 10:52:13.319974
+The test_fill_fuel1 passed , 2023-01-23 10:52:13.324972
+The test_fill_fuel2 passed , 2023-01-23 10:52:13.329098
+The test_parking1 passed , 2023-01-23 10:52:13.334173
+The test_parking2 passed , 2023-01-23 10:52:13.338184
+The test_set_current_fuel1 passed , 2023-01-23 10:52:13.342185
+The test_set_current_fuel2 did not pass , 2023-01-23 10:52:13.347188
+The test_start passed , 2023-01-23 10:52:13.352880
+The test_total_speed1 passed , 2023-01-23 10:52:13.357021
+The test_total_speed2 passed , 2023-01-23 10:52:13.361023
+The test_start passed , 2023-01-23 10:55:57.729662
+The test_parking1 passed , 2023-01-23 10:55:57.729662
+The test_parking2 passed , 2023-01-23 10:55:57.729662
+you have enough fuel for your trip , 2023-01-23 10:55:57.745343
+The test_is_enough_fuel1 passed , 2023-01-23 10:55:57.745343
+The test_fill_fuel1 passed , 2023-01-23 10:55:57.745343
+The test_fill_fuel2 passed , 2023-01-23 10:55:57.745343
+The test_total_speed1 passed , 2023-01-23 10:55:57.745343
+The test_total_speed2 passed , 2023-01-23 10:55:57.761748
+The test_set_current_fuel1 passed , 2023-01-23 10:55:57.761748
+The test_set_current_fuel2 passed , 2023-01-23 10:55:57.761748
+you have enough fuel for your trip , 2023-01-23 10:55:57.761748
+The test_is_enough_fuel1 passed , 2023-01-23 10:55:57.761748
+The test_parking2 passed , 2023-01-23 10:55:57.776765
+The test_max_gear passed , 2023-01-23 10:55:57.776765
+The test_fill_fuel1 passed , 2023-01-23 10:55:57.776765
+The test_fill_fuel2 passed , 2023-01-23 10:55:57.786050
+The test_parking1 passed , 2023-01-23 10:55:57.786050
+The test_parking2 passed , 2023-01-23 10:55:57.792586
+The test_set_current_fuel1 passed , 2023-01-23 10:55:57.793616
+The test_set_current_fuel2 did not pass , 2023-01-23 10:55:57.793616
+The test_start passed , 2023-01-23 10:55:57.793616
+The test_total_speed1 passed , 2023-01-23 10:55:57.793616
+The test_total_speed2 passed , 2023-01-23 10:55:57.808627
+you have enough fuel for your trip , 2023-01-23 10:56:37.336120
+The test_is_enough_fuel1 passed , 2023-01-23 10:56:37.336120
+The test_start passed , 2023-01-23 11:03:17.479043
+The test_parking1 passed , 2023-01-23 11:03:17.526600
+The test_parking2 passed , 2023-01-23 11:03:17.526600
+you have enough fuel for your trip , 2023-01-23 11:03:17.526600
+The test_is_enough_fuel1 passed , 2023-01-23 11:03:17.526600
+The test_fill_fuel1 passed , 2023-01-23 11:03:17.542232
+The test_fill_fuel2 passed , 2023-01-23 11:03:17.542232
+The test_total_speed1 passed , 2023-01-23 11:03:17.542232
+The test_total_speed2 passed , 2023-01-23 11:03:17.542232
+The test_set_current_fuel1 passed , 2023-01-23 11:03:17.542232
+The test_set_current_fuel2 passed , 2023-01-23 11:03:17.542232
+you have enough fuel for your trip , 2023-01-23 11:03:17.558460
+The test_is_enough_fuel1 passed , 2023-01-23 11:03:17.558460
+The test_parking2 passed , 2023-01-23 11:03:17.558460
+The test_max_gear passed , 2023-01-23 11:03:17.558460
+The test_fill_fuel1 passed , 2023-01-23 11:03:17.558460
+The test_fill_fuel2 passed , 2023-01-23 11:03:17.558460
+The test_parking1 passed , 2023-01-23 11:03:17.573971
+The test_parking2 passed , 2023-01-23 11:03:17.573971
+The test_set_current_fuel1 passed , 2023-01-23 11:03:17.573971
+The test_set_current_fuel2 did not pass , 2023-01-23 11:03:17.573971
+The test_start passed , 2023-01-23 11:03:17.573971
+The test_total_speed1 passed , 2023-01-23 11:03:17.590038
+The test_total_speed2 passed , 2023-01-23 11:03:17.590038
+The test_fill_fuel1 did not pass , 2023-01-23 11:15:53.027228
+The test_total_speed2 passed , 2023-01-23 11:17:13.644514
+The test_total_speed2 did not pass  the error is assert 60 == 30
+ +  where 60 = <bound method MyCar.total_speed of <Car.my_car.MyCar object at 0x0000024257B47AC0>>()
+ +    where <bound method MyCar.total_speed of <Car.my_car.MyCar object at 0x0000024257B47AC0>> = <Car.my_car.MyCar object at 0x0000024257B47AC0>.total_speed , 2023-01-23 11:18:44.133575
+The test_total_speed2 passed , 2023-01-23 11:19:16.503327
+The test_start did not pass  the error is assert 2 == 1
+ +  where 2 = <Car.my_car.MyCar object at 0x000001AA205C7AC0>.status , 2023-01-23 11:19:55.602761
+The test_total_speed1 did not pass  the error is assert 0 == 30
+ +  where 0 = <bound method MyCar.total_speed of <Car.my_car.MyCar object at 0x00000249BC66E0E0>>()
+ +    where <bound method MyCar.total_speed of <Car.my_car.MyCar object at 0x00000249BC66E0E0>> = <Car.my_car.MyCar object at 0x00000249BC66E0E0>.total_speed , 2023-01-23 11:21:46.913944
+you have enough fuel for your trip , 2023-01-23 11:30:14.151532
+you can not start to drive , 2023-01-23 11:30:14.151532
+you have enough fuel for your trip , 2023-01-23 11:35:01.810505
+You're already in drive , 2023-01-23 11:35:01.811508
+you have enough fuel for your trip , 2023-01-23 11:36:29.342348
+you have enough fuel for your trip , 2023-01-23 11:36:46.796995
+The test_is_enough_fuel1 passed , 2023-01-23 11:36:46.796995
+The test_parking2 passed , 2023-01-23 11:36:46.801998
+The test_max_gear passed , 2023-01-23 11:36:46.805993
+The test_fill_fuel1 passed , 2023-01-23 11:36:46.814518
+The test_fill_fuel2 passed , 2023-01-23 11:36:46.824515
+The test_parking1 passed , 2023-01-23 11:36:46.833516
+The test_parking2 passed , 2023-01-23 11:36:46.845517
+The test_set_current_fuel1 passed , 2023-01-23 11:36:46.855519
+The test_set_current_fuel2 failed the error is 35.0 != 40 , 2023-01-23 11:36:46.862523
+The test_start passed , 2023-01-23 11:36:46.879031
+The test_total_speed1 passed , 2023-01-23 11:36:46.890032
+The test_total_speed2 passed , 2023-01-23 11:36:46.899855
+You're already in stop status , 2023-01-23 11:38:51.339240
+you have enough fuel for your trip , 2023-01-23 11:38:59.409542
+You're already in drive , 2023-01-23 11:38:59.410542
+You're already in stop status , 2023-01-23 11:39:29.573191
+You're already in stop status , 2023-01-23 11:39:37.881139
+you have enough fuel for your trip , 2023-01-23 11:39:44.687629
+You're already in drive , 2023-01-23 11:39:44.687629
+you have enough fuel for your trip , 2023-01-23 11:39:50.733630
+you have enough fuel for your trip , 2023-01-23 11:42:26.286285
+you have enough fuel for your trip , 2023-01-23 11:43:56.730123
+getenv() takes from 1 to 2 positional arguments but 3 were given , 2023-01-23 11:43:56.730123
+you have enough fuel for your trip , 2023-01-23 11:48:13.619811
+After you fill fuel you have 450 shekels , 2023-01-23 11:48:13.620795
+you have enough fuel for your trip , 2023-01-23 11:49:53.839090
+After you fill fuel 5 liter, you have 450 shekels , 2023-01-23 11:49:53.840087
+you have enough fuel for your trip , 2023-01-23 11:57:21.150745
+After you fill 5 liter fuel, you have 450 shekels , 2023-01-23 11:57:21.151747
+you have enough fuel for your trip , 2023-01-23 12:03:45.809653
+After you fill 5 liter fuel, you have 450 shekels , 2023-01-23 12:03:45.812165
+The test_start failed the error is assert 2 == 1
+ +  where 2 = <Car.my_car.MyCar object at 0x0000018677FA7E50>.status , 2023-01-23 12:05:07.547791
+The test_parking1 passed , 2023-01-23 12:05:07.567250
+The test_parking2 passed , 2023-01-23 12:05:07.571225
+you have enough fuel for your trip , 2023-01-23 12:05:07.583687
+The test_is_enough_fuel1 passed , 2023-01-23 12:05:07.583687
+After you fill 5 liter fuel, you have 450 shekels , 2023-01-23 12:05:07.586329
+The test_fill_fuel1 passed , 2023-01-23 12:05:07.586329
+After you fill 10 liter fuel, you have 400 shekels , 2023-01-23 12:05:07.599105
+The test_fill_fuel2 passed , 2023-01-23 12:05:07.599105
+The test_total_speed1 passed , 2023-01-23 12:05:07.599105
+The test_total_speed2 passed , 2023-01-23 12:05:07.611117
+The test_set_current_fuel1 passed , 2023-01-23 12:05:07.611117
+The test_set_current_fuel2 passed , 2023-01-23 12:05:07.627010
+you have enough fuel for your trip , 2023-01-23 12:05:07.629972
+The test_is_enough_fuel1 passed , 2023-01-23 12:05:07.629972
+The test_parking2 passed , 2023-01-23 12:05:07.629972
+The test_max_gear passed , 2023-01-23 12:05:07.644320
+After you fill 5 liter fuel, you have 450 shekels , 2023-01-23 12:05:07.644320
+The test_fill_fuel1 passed , 2023-01-23 12:05:07.644320
+After you fill 10 liter fuel, you have 400 shekels , 2023-01-23 12:05:07.644320
+The test_fill_fuel2 passed , 2023-01-23 12:05:07.658697
+The test_parking1 passed , 2023-01-23 12:05:07.659442
+The test_parking2 passed , 2023-01-23 12:05:07.671471
+The test_set_current_fuel1 passed , 2023-01-23 12:05:07.675840
+The test_set_current_fuel2 failed the error is 35.0 != 40 , 2023-01-23 12:05:07.675840
+The test_start passed , 2023-01-23 12:05:07.690179
+The test_total_speed1 passed , 2023-01-23 12:05:07.690179
+The test_total_speed2 passed , 2023-01-23 12:05:07.690179
+The test_start failed the error is assert 2 == 1
+ +  where 2 = <Car.my_car.MyCar object at 0x0000026E31D25F60>.status , 2023-01-23 12:20:17.491694
+The test_parking1 passed , 2023-01-23 12:20:17.491694
+The test_parking2 passed , 2023-01-23 12:20:17.491694
+you have enough fuel for your trip , 2023-01-23 12:20:17.491694
+The test_is_enough_fuel1 passed , 2023-01-23 12:20:17.491694
+After you fill 5 liter fuel, you have 450 shekels , 2023-01-23 12:20:17.506704
+The test_fill_fuel1 passed , 2023-01-23 12:20:17.506704
+After you fill 10 liter fuel, you have 400 shekels , 2023-01-23 12:20:17.506704
+The test_fill_fuel2 passed , 2023-01-23 12:20:17.506704
+The test_total_speed1 passed , 2023-01-23 12:20:17.506704
+The test_total_speed2 passed , 2023-01-23 12:20:17.506704
+The test_set_current_fuel1 passed , 2023-01-23 12:20:17.522340
+The test_set_current_fuel2 passed , 2023-01-23 12:20:17.523193
+you have enough fuel for your trip , 2023-01-23 12:20:17.528205
+The test_is_enough_fuel1 passed , 2023-01-23 12:20:17.528205
+The test_parking2 passed , 2023-01-23 12:20:17.528205
+The test_max_gear passed , 2023-01-23 12:20:17.528205
+After you fill 5 liter fuel, you have 450 shekels , 2023-01-23 12:20:17.538881
+The test_fill_fuel1 passed , 2023-01-23 12:20:17.538881
+After you fill 10 liter fuel, you have 400 shekels , 2023-01-23 12:20:17.538881
+The test_fill_fuel2 passed , 2023-01-23 12:20:17.538881
+The test_parking1 passed , 2023-01-23 12:20:17.538881
+The test_parking2 passed , 2023-01-23 12:20:17.538881
+The test_set_current_fuel1 passed , 2023-01-23 12:20:17.538881
+The test_set_current_fuel2 failed the error is 35.0 != 40 , 2023-01-23 12:20:17.555014
+The test_start passed , 2023-01-23 12:20:17.555014
+The test_total_speed1 passed , 2023-01-23 12:20:17.555014
+The test_total_speed2 passed , 2023-01-23 12:20:17.555014
